@@ -1,8 +1,15 @@
-.atrybut { 
-    background-color: wheat; color: black; 
+.background { 
+    background-color: whitesmoke; 
 }
 h1 {
-    position: relative;
-    left: 450px;
-    top: 0px;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+    color: lime;
+}
+.p1{
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
 }
